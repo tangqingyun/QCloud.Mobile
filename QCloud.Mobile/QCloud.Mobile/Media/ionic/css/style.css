@@ -1,0 +1,19 @@
+/* Empty. Add your own CSS if you like */
+
+ .item-thumbnail-left > img:first-child, .item-thumbnail-left .item-image, .item-thumbnail-left .item-content > img:first-child, .item-thumbnail-left .item-content .item-image {
+    top: 10px;
+    left: 10px;
+    max-width: 110px;
+    max-height: 75px;
+    }
+
+.item h2,.item p {
+    margin-left:20px;
+}
+.item p {
+   font-size:13px;
+   margin-top:0px;margin-bottom:0px;
+}
+.badge {
+  margin-top:10px;color:#ff6a00;font-weight:normal;
+}

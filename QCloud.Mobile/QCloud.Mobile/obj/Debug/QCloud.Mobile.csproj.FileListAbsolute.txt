@@ -1,0 +1,6 @@
+E:\git.source\QCloud.Mobile\QCloud.Mobile\bin\QCloud.Mobile.dll.config
+E:\git.source\QCloud.Mobile\QCloud.Mobile\bin\QCloud.Mobile.dll
+E:\git.source\QCloud.Mobile\QCloud.Mobile\bin\QCloud.Mobile.pdb
+E:\git.source\QCloud.Mobile\QCloud.Mobile\obj\Debug\QCloud.Mobile.csprojResolveAssemblyReference.cache
+E:\git.source\QCloud.Mobile\QCloud.Mobile\obj\Debug\QCloud.Mobile.dll
+E:\git.source\QCloud.Mobile\QCloud.Mobile\obj\Debug\QCloud.Mobile.pdb
